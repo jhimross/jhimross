@@ -1,5 +1,8 @@
-<h1>☕ Welcome to my GitHub ☕</h1>
-	<p>Hello there, fellow caffeine addicts! I'm Jhimross, a coffee-loving developer who enjoys coding, learning new things, and of course, drinking coffee. Let me show you around my Github profile, and feel free to grab a cup of coffee while you're here.</p>
-	<h2>🚀 Current Brew</h2>
-	<p>Right now, I'm sipping on Arabica beans coffee, which is the perfect fuel for my coding adventures. I'm also working on something, where I'm using my coding skills to make the world a better place.</p>
-
+<h1>Yo, what's up? 👋</h1>
+    <p>Welcome to my GitHub profile, where I'm a self-proclaimed WordPress wizard and tech support extraordinaire. I'm like a superhero, but instead of a cape, I have a keyboard. 💻</p>
+    <h2>About Me 🙋‍♂️</h2>
+    <p>I spend my days wrangling with code and making WordPress sites look awesome. It's like playing a never-ending game of Tetris, but with more coffee ☕ and less colorful blocks.</p>
+    <p>When I'm not saving websites from the brink of destruction, you can usually find me snacking on cookies 🍪 and brainstorming new puns to insert into my code. Who says programming can't be fun?</p>
+    <h2>Skills 🛠️</h2>
+    <p>I'm a master of debugging, troubleshooting, and making people laugh. Seriously, my puns are so bad they're good. Don't believe me? I'll code a website that'll make you laugh so hard, you'll need a tissue. 😂</p>
+    
